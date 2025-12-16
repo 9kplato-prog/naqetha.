@@ -1,0 +1,35 @@
+:root {
+    --primary-color: #ff6b35;
+    --primary-dark: #e55a2b;
+    --primary-light: #ff9b7a;
+    --secondary-color: #2a9d8f;
+    --secondary-dark: #238277;
+    --dark-color: #264653;
+    --light-color: #f8f9fa;
+    --gray-color: #6c757d;
+    --success-color: #28a745;
+    --warning-color: #ffc107;
+    --danger-color: #dc3545;
+    --info-color: #0ea5e9;
+    --shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    --shadow-lg: 0 20px 40px rgba(15, 23, 42, 0.08);
+    --border-radius: 12px;
+    --transition: all 0.3s ease;
+    --sidebar-width: 290px;
+    --radius-lg: 18px;
+    --font-family: 'Cairo', 'Tajawal', sans-serif;
+}
+
+body.dark-mode {
+    --primary-color: #ff8c5a;
+    --secondary-color: #3db8a8;
+    --dark-color: #1a2a33;
+    --light-color: #0f172a;
+    --gray-color: #94a3b8;
+    --card-bg: #1e293b;
+    --border-color: #273347;
+    --shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+    --shadow-lg: 0 20px 40px rgba(0, 0, 0, 0.45);
+}
+
+/* يمكنك وضع بقية الأنماط هنا أو تقسيمها إلى ملفات فرعية */
